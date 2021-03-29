@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<<a href="seu linkedin"><img align=”left” src="developer.gif"/></a>
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/juhfernandes/"><img align=”left” src="developer.gif"/></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
